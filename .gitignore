@@ -1,0 +1,12 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore IDE config folders
+.idea/
+.vscode/
+
+# Ignore dynamically generated JSON file
+Homework1/filters/last_dates.json
+
+# Ignore database files
+*.db
